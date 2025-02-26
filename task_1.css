@@ -1,0 +1,42 @@
+.text {
+background-color: yellow;
+}
+.CSS {
+    background-color: rgb(109, 109, 217);
+}
+
+.frame {
+    border: 8px solid rgb(139, 14, 62);
+    padding: 5px;
+    display: inline-block;
+    width: 90%;
+    color:brown;
+   
+}
+
+.name .CSS {
+    background-color:blue
+}
+
+.number .HTML .language
+    {background-color: cyan;
+}
+ .introduction +span {
+    background-color: blueviolet;
+ }
+
+#developed>span{
+    background-color: cornflowerblue;
+}
+
+.Node>.description {
+    background-color: chartreuse;
+}
+
+a :link {
+    color: blueviolet;
+}
+
+.link {
+    background-color: darkgreen;
+}
